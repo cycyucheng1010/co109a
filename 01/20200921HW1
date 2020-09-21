@@ -1,0 +1,39 @@
+#第一章前六題(Not,And,Or,Xor,Mux,DMux)
+##Not
+* [Not.hdl](https://github.com/cycyucheng1010/co109a/blob/master/01/Not.hdl)
+* [Not.out](https://github.com/cycyucheng1010/co109a/blob/master/01/Not.out)
+
+// This file is part of www.nand2tetris.org
+// and the book "The Elements of Computing Systems"
+// by Nisan and Schocken, MIT Press.
+// File name: projects/01/Not.hdl
+
+/**
+ * Not gate:
+ * out = not in
+ */
+
+CHIP Not {
+    IN in;
+    OUT out;
+
+    PARTS:
+    // Put your code here:
+    Nand(a=in, b=in, out=out);
+}
+---------------------------------------
+|  in   |  out  |
+|   0   |   1   |
+|   1   |   0   |
+##And
+
+##Or
+
+##Xor
+
+##Mux
+
+##DMux
+
+##Picture
+<img src="https://github.com/cycyucheng1010/co109a/blob/master/01/Not_And_Or_Xor_Mux_DMux_20200917.jpg" width="300" height="200" align=center/ >
