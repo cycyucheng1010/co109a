@@ -9,7 +9,8 @@
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程內容 | https://gitlab.com/ccc109/co
 
-
+## 課程習題:
+### 作業:
 * [第一章前六題](https://github.com/cycyucheng1010/co109a/blob/master/01/20200921HW1.md)
 * [第一章後半習題&笛摩根定律證明](https://github.com/cycyucheng1010/co109a/blob/master/01/20200927HW2.md)
 * [第二章前半作業](https://github.com/cycyucheng1010/co109a/blob/master/02/20201022HW3.md)
@@ -24,3 +25,5 @@
 * [Computer](https://github.com/cycyucheng1010/co109a/blob/master/20201210HW12.md)
 * [第七週補充習題 -- 將 HackCPU 組合語言翻成機器碼](https://github.com/cycyucheng1010/co109a/blob/master/20201118HW15.md)
 * [第八週補充習題 -- 撰寫組合語言](https://github.com/cycyucheng1010/co109a/blob/master/20201118HW16.md)
+### 說明:
+* 筆記及部分新知皆以補充在各作業中.......
