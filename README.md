@@ -23,6 +23,8 @@
 * [Memory](https://github.com/cycyucheng1010/co109a/blob/master/20201127HW10.md)
 * [CPU](https://github.com/cycyucheng1010/co109a/blob/master/200201205HW11.md)
 * [Computer](https://github.com/cycyucheng1010/co109a/blob/master/20201210HW12.md)
+* [組譯器無符號](https://github.com/cycyucheng1010/co109a/blob/master/20201217HW13.md)
+* [組譯器有符號](https://github.com/cycyucheng1010/co109a/blob/master/20210114_HW14.md)
 * [第七週補充習題 -- 將 HackCPU 組合語言翻成機器碼](https://github.com/cycyucheng1010/co109a/blob/master/20201118HW15.md)
 * [第八週補充習題 -- 撰寫組合語言](https://github.com/cycyucheng1010/co109a/blob/master/20201118HW16.md)
 ### 說明:
