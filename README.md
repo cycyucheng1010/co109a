@@ -22,3 +22,5 @@
 * [Memory](https://github.com/cycyucheng1010/co109a/blob/master/20201127HW10.md)
 * [CPU](https://github.com/cycyucheng1010/co109a/blob/master/200201205HW11.md)
 * [Computer](https://github.com/cycyucheng1010/co109a/blob/master/20201210HW12.md)
+* [第七週補充習題 -- 將 HackCPU 組合語言翻成機器碼](https://github.com/cycyucheng1010/co109a/blob/master/20201118HW15.md)
+* [第八週補充習題 -- 撰寫組合語言](https://github.com/cycyucheng1010/co109a/blob/master/20201118HW16.md)
